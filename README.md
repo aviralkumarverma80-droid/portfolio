@@ -83,9 +83,9 @@ A modern and interactive developer portfolio showcasing my skills, projects, and
 
 ## 🤝 Connect With Me
 
-📧 **Email:** Your Email Here
-💼 **LinkedIn:** Your LinkedIn Profile
-🌐 **Portfolio:** Your Portfolio Website
+📧 **Email:** avirakumarverma80@gmail.com
+💼 **LinkedIn:** www.linkedin.com/in/aviral-kumar-verma-3b3737389
+🌐 **Portfolio:** https://portfolio-nine-amber-80sk93omnn.vercel.app/
 🐙 **GitHub:** [Aviral Kumar Verma](https://github.com/YOUR_USERNAME)
 
 ---
